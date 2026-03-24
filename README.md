@@ -80,13 +80,6 @@ Each project in this repository follows a structured approach:
 
 ---
 
-## 🔗 Kaggle Profile  
-
-Check out my Kaggle work here:  
-👉 https://www.kaggle.com/purvabhokare/code  
-
----
-
 ## 🚀 Future Improvements  
 
 - Advanced visualizations  
